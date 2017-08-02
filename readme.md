@@ -9,4 +9,4 @@
 * Please follow the listed commands intructions to run the app successfully.
 
 # Demo
-![alt tag](https://github.com/Bsmalhi/Weather-Node-App/Jul_31_2017_1_41_PM.gif)
+![Gif demo](https://ibb.co/csTYAQ)
