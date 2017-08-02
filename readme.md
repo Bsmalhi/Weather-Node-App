@@ -7,3 +7,6 @@
 * You can check the list of commands by typing **node app-promise.js --help** in the terminal.
 * To check the weather for eg. San Francisco type **node app-promise.js -a 'San Francisco'**
 * Please follow the listed commands intructions to run the app successfully.
+
+# Demo
+![alt tag](https://github.com/Bsmalhi/Weather-Node-App/Jul_31_2017_1_41_PM.gif)
